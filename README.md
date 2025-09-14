@@ -1,6 +1,6 @@
 # My name is Noah
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Noah
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
