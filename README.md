@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# My name is Noah
 
 # 👋 Hi, I'm [Your Name]
 
